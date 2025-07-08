@@ -15,5 +15,6 @@ A modular AI assistant in Python illustrating:
 
 ```bash
 git clone <repo-url>
-cd my_ai_assistant/src
+cd my_ai_assistant
 python main.py
+
