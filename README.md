@@ -11,11 +11,6 @@ A modular AI assistant in Python illustrating:
 - **Part 3**: Simulation of multiple users + simple intent parsing for routing
 - **Bonus**: Regex-based parsing & confidence scoring
 
-## Requirements
-
-- Python 3.8+
-- No external dependencies
-
 ## Installation & Running
 
 ```bash
